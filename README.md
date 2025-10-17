@@ -32,13 +32,13 @@ setelah data diisi lalu di add
 ![Dokumentasi](Dokumentasi/add2.png)
 
 saat ingin mengupdate data
-![Dokumentasi](Dokumentasi/update1.png)
-
-saat data sudah diupdate
 ![Dokumentasi](Dokumentasi/update2.png)
 
+saat data sudah diupdate
+![Dokumentasi](Dokumentasi/update3.png)
+
 saat data sudah berhasil dihapus
-![Dokumentasi](Dokumentasi/delete.png)
+![Dokumentasi](Dokumentasi/delete1.png)
 
 error yang muncul apabila ada kolom yang kosong
 ![Dokumentasi](Dokumentasi/isi_kolom.png)
